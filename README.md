@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @aurias20
-- 👀 I’m interested in 
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I’m andy
+- I’m interested in learnng about cybersecurity if anyone is willing to help 
+ . . 
+  __
+-
+- 
+- 
 
 <!---
 aurias20/aurias20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
